@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "96008423117",
+    "project_id": "nac2sem",
+    "storage_bucket": "nac2sem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96008423117:android:7d5f02061e34e7a4ca8b84",
+        "android_client_info": {
+          "package_name": "fiap.com.br.nac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96008423117-uu23d800naliae238mpf2r3rd2asdpje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZojw1RBy_zaLDNNB-FzJ9Adh0NuZupWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96008423117-uu23d800naliae238mpf2r3rd2asdpje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
